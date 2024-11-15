@@ -1,0 +1,15 @@
+{
+  "authorized": [
+    // array of user ids
+  ],
+  "wow": {
+    "client_id": "", // your wow developer credentials
+    "client_secret": "",
+    "region": "us",
+    "locale": "en_US"
+  },
+
+  "openapi": {
+    "key": "" // your openai key
+  }
+}
